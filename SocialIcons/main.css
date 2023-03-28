@@ -1,0 +1,117 @@
+body {
+    margin: 40px;
+}
+
+.fbIcon {
+    background-color: transparent;
+    border-color: rgb(140, 75, 205);
+    border-style: solid;
+    font-size: 60px;
+    color: rgb(140, 75, 205);
+    border-radius: 50%;
+    border-width: 4px;
+    padding: 20px;
+    margin: 10px;
+    transition: background-color 0.4s, opacity 0.2s, color 0.4s;
+}
+
+.fbIcon:hover {
+    background-color:  rgb(140, 75, 205);
+    color: white;
+}
+
+.fbIcon:active {
+    opacity: 0.5;
+}
+
+
+.twitterIcon {
+    background-color: transparent;
+    border-color: rgb(140, 75, 205);
+    border-style: solid;
+    font-size: 60px;
+    color: rgb(140, 75, 205);
+    border-radius: 50%;
+    border-width: 4px;
+    padding: 20px;
+    margin: 10px;
+    transition: background-color 0.4s, opacity 0.2s, color 0.4s;
+}
+
+.twitterIcon:hover {
+    background-color:  rgb(140, 75, 205);
+    color: white;
+}
+
+.twitterIcon:active {
+    opacity: 0.5;
+}
+
+
+.instaIcon {
+    background-color: transparent;
+    border-color: rgb(140, 75, 205);
+    border-style: solid;
+    font-size: 60px;
+    color: rgb(140, 75, 205);
+    border-radius: 50%;
+    border-width: 4px;
+    padding: 20px;
+    margin: 10px;
+    transition: background-color 0.4s, opacity 0.2s, color 0.4s;
+}
+
+.instaIcon:hover {
+    background-color:  rgb(140, 75, 205);
+    color: white;
+}
+
+.instaIcon:active {
+    opacity: 0.5;
+}
+
+
+.linkedinIcon {
+    background-color: transparent;
+    border-color: rgb(140, 75, 205);
+    border-style: solid;
+    font-size: 60px;
+    color: rgb(140, 75, 205);
+    border-radius: 50%;
+    border-width: 4px;
+    padding: 20px;
+    margin: 10px;
+    transition: background-color 0.4s, opacity 0.2s, color 0.4s;
+}
+
+.linkedinIcon:hover {
+    background-color:  rgb(140, 75, 205);
+    color: white;
+}
+
+.linkedinIcon:active {
+    opacity: 0.5;
+}
+
+
+.userIcon {
+    background-color: transparent;
+    border-color: rgb(140, 75, 205);
+    border-style: solid;
+    font-size: 60px;
+    color: rgb(140, 75, 205);
+    border-radius: 50%;
+    border-width: 4px;
+    padding: 20px;
+    margin: 10px;
+    transition: background-color 0.4s, opacity 0.2s, color 0.4s;
+}
+
+.userIcon:hover {
+    background-color:  rgb(140, 75, 205);
+    color: white;
+}
+
+.userIcon:active {
+    opacity: 0.5;
+}

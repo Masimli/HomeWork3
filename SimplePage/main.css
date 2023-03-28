@@ -1,0 +1,47 @@
+div {
+    text-align: center;
+    color: rgb(74, 74, 74);
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: -5px;
+}
+
+p1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img {
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+}
+
+p2 {
+    width: 600px;
+    font-size: 15px;
+    margin-bottom: 300px;
+}
+
+.ReadMoreBotton {
+    border-width: 0 4px;
+    border-style: solid;
+    border-color: gray;
+    background-color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 300;
+    cursor: pointer;
+  }
+
+  .ReadMoreBotton:hover {
+    border-width: 0 7px;
+    border-style: solid;
+    border-color: gray;
+    padding: 15px 25px;
+    font-size: 25px;
+  }
+  
